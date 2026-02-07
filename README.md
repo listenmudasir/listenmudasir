@@ -26,5 +26,5 @@ National Taipei University, Taiwan
 ## Technical Stack
 PyTorch · YOLOv8 · ByteTrack · OpenCV · CLIP · HRNet · Linux · Docker
 
-📫 Email: your_email@ntpu.edu.tw  
+📫 Email: s711183401@gm.ntpu.edu.tw  
 🔗 Google Scholar | LinkedIn
